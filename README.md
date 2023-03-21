@@ -8,6 +8,8 @@
 
 - [NY ArtBeat API](https://github.com/ruiqixue16/nyartbeatpkg): Developed a package for the NY ArtBeat API, which is a platform that provides a comprehensive list of art events and reviews, this package first incorporates the different event lists in a single dataset and then allows users to pinpoint their events of interest with a couple built-in search functions.
 
+- [Covid X-ray Diagnostic AI Mode](https://github.com/ruiqixue16/Covid_Xrays_Image_ML_Models): built prediction models with above 90% accuracy to identify Covid positive X-ray pictures using the dataset provided by M.E.H. Chowdhury et al..
+
 ## 🌱 I'm currently learning
 
 - [Tensorflow]: Build CNN models and transfer learning with classic vision architectures
